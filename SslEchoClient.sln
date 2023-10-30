@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslEchoClient", "SslEchoClient\SslEchoClient.csproj", "{4970E79A-6A18-4A15-83D0-8CC1FF205E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4970E79A-6A18-4A15-83D0-8CC1FF205E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4970E79A-6A18-4A15-83D0-8CC1FF205E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4970E79A-6A18-4A15-83D0-8CC1FF205E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4970E79A-6A18-4A15-83D0-8CC1FF205E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3BAE43-FCF9-413C-9AED-FEF017AE790E}
+	EndGlobalSection
+EndGlobal
